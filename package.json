@@ -1,6 +1,6 @@
 {
   "name": "it-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "type": "module",
   "scripts": {
@@ -11,6 +11,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/ui": "^2.18.1",
     "nuxt": "^3.12.4",
     "vue": "latest"
   }
